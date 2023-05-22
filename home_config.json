@@ -1,0 +1,68 @@
+{
+  "head_video": {
+    "url": "https://s.metag.ai/videos/background_metagG.mp4",
+    "cover": ""
+  },
+  "main_video": {
+    "url": "https://s.metag.ai/videos/unified_metaG.mp4",
+    "cover": "https://s.metag.ai/unified_cover.jpg"
+  },
+  "guide_video": [
+    {
+      "url": "https://s.metag.ai/videos/gen-1.mp4",
+      "cover": "https://s.metag.ai/videos/gen-1.jpg"
+    },
+    {
+      "url": "https://s.metag.ai/videos/gen-2.mp4",
+      "cover": "https://s.metag.ai/videos/gen-2.jpg"
+    },
+    {
+      "url": "https://s.metag.ai/videos/gen-3.mp4",
+      "cover": "https://s.metag.ai/videos/gen-3.jpg"
+    }
+  ],
+  "cases_compare": [
+    {
+      "url": "https://s.metag.ai/videos/meta2-gen-robot-piece-paper.mp4",
+      "cover": ""
+    },
+    {
+      "url": "https://s.metag.ai/videos/meta2-gen-little-boy-piece-paper.mp4",
+      "cover": ""
+    }
+  ],
+  "cases_list": [
+    {
+      "url": "https://s.metag.ai/videos/subvideo/two_men_playing_basketball.mp4",
+      "cover": "https://s.metag.ai/videos/subvideo/two_men_playing_basketball.jpg"
+    },
+    {
+      "url": "https://s.metag.ai/videos/subvideo/cat_with_blue_eyes.mp4",
+      "cover": "https://s.metag.ai/videos/subvideo/cat_with_blue_eyes.jpg"
+    },
+    {
+      "url": "https://s.metag.ai/videos/subvideo/cow_with_big_horns.mp4",
+      "cover": "https://s.metag.ai/videos/subvideo/cow_with_big_horns.jpg"
+    },
+    {
+      "url": "https://s.metag.ai/videos/subvideo/drawing_dinosaur.mp4",
+      "cover": "https://s.metag.ai/videos/subvideo/drawing_dinosaur.jpg"
+    },
+    {
+      "url": "https://s.metag.ai/videos/subvideo/drawing_elephant.mp4",
+      "cover": "https://s.metag.ai/videos/subvideo/drawing_elephant.jpg"
+    },
+    {
+      "url": "https://s.metag.ai/videos/subvideo/pink_flamingos.mp4",
+      "cover": "https://s.metag.ai/videos/subvideo/pink_flamingos.jpg"
+    },
+    {
+      "url": "https://s.metag.ai/videos/subvideo/robot_taking_a_selfie_in_the_desert_with_a_rotating_camera.mp4",
+      "cover": "https://s.metag.ai/videos/subvideo/robot_taking_a_selfie_in_the_desert_with_a_rotating_camera.jpg"
+    },
+    {
+      "url": "https://s.metag.ai/videos/subvideo/playing_piano_in_snow.mp4",
+      "cover": "https://s.metag.ai/videos/subvideo/playing_piano_in_snow.jpg"
+    }
+  ]
+}
