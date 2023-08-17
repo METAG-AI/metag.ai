@@ -1,68 +1,85 @@
 {
   "head_video": {
-    "url": "https://s.metag.ai/videos/colorful_Play-Doh_clay_modeling_styleback_of_a_girl_walking_on_a_mountain_by_the_sea.mp4?v=0.35",
+    "url": "/static/videos/background_metagG.mp4",
     "cover": ""
   },
   "main_video": {
-    "url": "https://s.metag.ai/videos/unified_metaG.mp4",
-    "cover": "https://s.metag.ai/unified_cover.jpg"
+    "url": "/static/videos/unified_metaG.mp4",
+    "cover": "/static/unified_cover.jpg"
   },
   "guide_video": [
     {
-      "url": "https://s.metag.ai/videos/gen-1.mp4",
-      "cover": "https://s.metag.ai/videos/gen-1.jpg"
+      "url": "https://s.metag.ai/videos/v2/finetune/a-painting-of-white-horse-in-snowy-forest-Chinese-Watercolor-sketch-concept-art.mp4",
+      "cover": "/static/videos/gen-1.jpg",
+      "text": "A painting of white horse in snowy forest Chinese Watercolor sketch concept art"
     },
     {
-      "url": "https://s.metag.ai/videos/gen-2.mp4",
-      "cover": "https://s.metag.ai/videos/gen-2.jpg"
+      "url": "https://s.metag.ai/videos/v2/finetune/a-little-cartoon-boy-making-faces-at-the-camera-Chinese-Watercolor-sketch.mp4",
+      "cover": "/static/videos/gen-2.jpg",
+      "text": "A little cartoon boy making faces at the camera, Chinese Watercolor sketch"
     },
     {
-      "url": "https://s.metag.ai/videos/gen-3.mp4",
-      "cover": "https://s.metag.ai/videos/gen-3.jpg"
+      "url": "/static/videos/gen-3.mp4",
+      "cover": "/static/videos/gen-3.jpg"
     }
   ],
   "cases_compare": [
     {
-      "url": "https://s.metag.ai/videos/meta2-gen-robot-piece-paper.mp4",
+      "url": "/static/videos/meta2-gen-robot-piece-paper.mp4",
       "cover": ""
     },
     {
-      "url": "https://s.metag.ai/videos/meta2-gen-little-boy-piece-paper.mp4",
+      "url": "/static/videos/meta2-gen-little-boy-piece-paper.mp4",
+      "cover": ""
+    }
+  ],
+  "text_video": [
+    {
+      "url": "https://s.metag.ai/videos/v2/meta-gen-1.webm",
+      "cover": ""
+    }
+  ],
+  "edit_video": [
+    {
+      "url": "https://s.metag.ai/videos/v2/meta-gen-2.webm",
       "cover": ""
     }
   ],
   "cases_list": [
     {
-      "url": "https://s.metag.ai/videos/subvideo/two_men_playing_basketball.mp4",
-      "cover": "https://s.metag.ai/videos/subvideo/two_men_playing_basketball.jpg"
+      "url": "https://s.metag.ai/videos/v2/A-squirrel-eating-a-pinecone-on-a-road-covered-with-maple-leaves.mp4",
+      "cover": "https://s.metag.ai/videos/v2/cover/A-squirrel-eating-a-pinecone-on-a-road-covered-with-maple-leaves.jpg",
+      "text": "A squirrel eating a pinecone on a road covered with maple leaves"
     },
     {
-      "url": "https://s.metag.ai/videos/subvideo/cat_with_blue_eyes.mp4",
-      "cover": "https://s.metag.ai/videos/subvideo/cat_with_blue_eyes.jpg"
+      "url": "https://s.metag.ai/videos/v2/LEGO-Astronauts-Traveling-out-Space.mp4",
+      "cover": "https://s.metag.ai/videos/v2/cover/LEGO-Astronauts-Traveling-out-Space.jpg",
+      "text": "LEGO Astronauts Traveling out Space"
     },
     {
-      "url": "https://s.metag.ai/videos/subvideo/cow_with_big_horns.mp4",
-      "cover": "https://s.metag.ai/videos/subvideo/cow_with_big_horns.jpg"
+      "url": "https://s.metag.ai/videos/v2/a-video-of-a-train-going-down-a-track-in-the-middle-of-a-snow-mountain.mp4",
+      "cover": "https://s.metag.ai/videos/v2/cover/a-video-of-a-train-going-down-a-track-in-the-middle-of-a-snow-mountain.jpg",
+      "text": "A video of a train going down a track in the middle of a snow mountain"
     },
     {
-      "url": "https://s.metag.ai/videos/subvideo/drawing_dinosaur.mp4",
-      "cover": "https://s.metag.ai/videos/subvideo/drawing_dinosaur.jpg"
+      "url": "https://s.metag.ai/videos/v2/a-knitted-brown-bear-standing-on-top-of-a-large-block-of-ice.mp4",
+      "cover": "https://s.metag.ai/videos/v2/cover/a-knitted-brown-bear-standing-on-top-of-a-large-block-of-ice.jpg",
+      "text": "A knitted brown bear standing on top of a large block of ice"
     },
     {
       "url": "https://s.metag.ai/videos/subvideo/drawing_elephant.mp4",
-      "cover": "https://s.metag.ai/videos/subvideo/drawing_elephant.jpg"
+      "cover": "https://s.metag.ai/videos/subvideo/drawing_elephant.jpg",
+      "text": "Elephants walking on the grasslands, in children's book"
     },
     {
-      "url": "https://s.metag.ai/videos/subvideo/pink_flamingos.mp4",
-      "cover": "https://s.metag.ai/videos/subvideo/pink_flamingos.jpg"
-    },
-    {
-      "url": "https://s.metag.ai/videos/subvideo/robot_taking_a_selfie_in_the_desert_with_a_rotating_camera.mp4",
-      "cover": "https://s.metag.ai/videos/subvideo/robot_taking_a_selfie_in_the_desert_with_a_rotating_camera.jpg"
+      "url": "https://s.metag.ai/videos/v2/a-galaxy-full-of-stars.mp4",
+      "cover": "https://s.metag.ai/videos/v2/cover/a-galaxy-full-of-stars.jpg",
+      "text": "A galaxy full of stars"
     },
     {
       "url": "https://s.metag.ai/videos/subvideo/playing_piano_in_snow.mp4",
-      "cover": "https://s.metag.ai/videos/subvideo/playing_piano_in_snow.jpg"
+      "cover": "https://s.metag.ai/videos/subvideo/playing_piano_in_snow.jpg",
+      "text": "A girl playing piano in snow"
     }
   ]
 }
