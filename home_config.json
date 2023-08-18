@@ -1,47 +1,41 @@
 {
   "head_video": {
-    "url": "/static/videos/background_metagG.mp4",
+    "url": "https://s.metag.ai/videos/background_metagG.mp4",
     "cover": ""
   },
   "main_video": {
-    "url": "/static/videos/unified_metaG.mp4",
-    "cover": "/static/unified_cover.jpg"
+    "url": "https://s.metag.ai/videos/unified_metaG.mp4",
+    "cover": "https://s.metag.ai/unified_cover.jpg"
   },
   "guide_video": [
     {
       "url": "https://s.metag.ai/videos/v2/finetune/a-painting-of-white-horse-in-snowy-forest-Chinese-Watercolor-sketch-concept-art.mp4",
-      "cover": "/static/videos/gen-1.jpg",
+      "cover": "https://s.metag.ai/videos/v2/cover/a-painting-of-white-horse-in-snowy-forest-Chinese-Watercolor-sketch-concept-art.jpg",
       "text": "A painting of white horse in snowy forest Chinese Watercolor sketch concept art"
     },
     {
       "url": "https://s.metag.ai/videos/v2/finetune/a-little-cartoon-boy-making-faces-at-the-camera-Chinese-Watercolor-sketch.mp4",
-      "cover": "/static/videos/gen-2.jpg",
+      "cover": "https://s.metag.ai/videos/v2/cover/a-little-cartoon-boy-making-faces-at-the-camera-Chinese-Watercolor-sketch.jpg",
       "text": "A little cartoon boy making faces at the camera, Chinese Watercolor sketch"
-    },
-    {
-      "url": "/static/videos/gen-3.mp4",
-      "cover": "/static/videos/gen-3.jpg"
-    }
-  ],
-  "cases_compare": [
-    {
-      "url": "/static/videos/meta2-gen-robot-piece-paper.mp4",
-      "cover": ""
-    },
-    {
-      "url": "/static/videos/meta2-gen-little-boy-piece-paper.mp4",
-      "cover": ""
     }
   ],
   "text_video": [
     {
       "url": "https://s.metag.ai/videos/v2/meta-gen-1.webm",
       "cover": ""
+    },
+    {
+      "url": "https://s.metag.ai/videos/v2/meta-gen-1.mp4",
+      "cover": ""
     }
   ],
   "edit_video": [
     {
       "url": "https://s.metag.ai/videos/v2/meta-gen-2.webm",
+      "cover": ""
+    },
+    {
+      "url": "https://s.metag.ai/videos/v2/meta-gen-2.mp4",
       "cover": ""
     }
   ],

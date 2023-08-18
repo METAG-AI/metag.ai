@@ -1,32 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 49.04 49.04">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: none;
-      }
-
-      .cls-2 {
-        fill: #315ba9;
-      }
-
-      .cls-3 {
-        fill: url(#_未命名的渐变_3);
-      }
-    </style>
-    <linearGradient id="_未命名的渐变_3" data-name="未命名的渐变 3" x1="50.57" y1="1188.46" x2="29.97" y2="1188.25" gradientTransform="translate(-8.36 1212.86) scale(1 -1)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#6fc5c1"/>
-      <stop offset="1" stop-color="#f5f5f5"/>
-    </linearGradient>
-  </defs>
-  <g id="_图层_1-2" data-name="图层 1">
-    <g>
-      <g>
-        <path class="cls-3" d="M36.71,12.02l5.46,21.86-9.25,3.99-2.94-12.19-4.62,7.57h-6.73L27.89,11.18l8.83,.84Z"/>
-        <path class="cls-2" d="M7.29,12.02L1.82,33.88l9.25,3.99,2.94-12.19,4.62,7.57h6.73L16.11,11.18l-8.83,.84Z"/>
-        <circle class="cls-2" cx="45.33" cy="13.91" r="2.73"/>
-      </g>
-      <rect class="cls-1" width="49.04" height="49.04"/>
-    </g>
-  </g>
+<svg width="76" height="72" viewBox="0 0 76 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1955_817)">
+<path d="M0 48.8495L27.3096 45.6975L20.4476 55.4118L0 48.8495Z" fill="#E95513"/>
+<path opacity="0.7" d="M66.593 28.5106L59.588 0L42.832 23.7204L66.593 28.5106Z" fill="#45A3FB"/>
+<path d="M76.0008 40.079L75.2474 48.4483L52.4336 42.7978L76.0008 40.079Z" fill="#1D2087"/>
+<path opacity="0.6" d="M75.2462 48.4483L66.593 28.5106L42.832 23.7203L52.4324 42.7978L75.2462 48.4483Z" fill="#F92F01"/>
+<path d="M20.4476 55.4118L0 48.8495L31.7084 1.60938L37.6525 31.0547L20.4476 55.4118Z" fill="#0112E8"/>
+<path d="M31.709 1.60938L42.833 23.7203L37.6531 31.0547L31.709 1.60938Z" fill="#45A3FB"/>
+<path d="M53.5488 18.6383L64.0886 63.348L49.0946 58.5349L43.8655 32.3465L53.5488 18.6383ZM56.2641 4.70667L37.6523 31.0547L44.0269 62.9802L72.1283 72L56.2626 4.70667H56.2641Z" fill="#DBFE01"/>
+<path d="M66.5943 28.5106L73.7331 58.5137L72.1279 72L56.2637 4.70667L66.5943 28.5106Z" fill="#E4A819"/>
+<path opacity="0.7" d="M66.5929 28.5106L59.5879 0L75.9995 40.079L75.2461 48.4483L66.5929 28.5106Z" fill="#E5078C"/>
+<path d="M71.0916 47.4195L70.166 43.5289L71.0916 47.4195Z" fill="#C9B51F"/>
+</g>
+<defs>
+<clipPath id="clip0_1955_817">
+<rect width="76" height="72" fill="white"/>
+</clipPath>
+</defs>
 </svg>
