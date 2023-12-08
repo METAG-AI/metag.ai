@@ -1,1 +1,0 @@
-import{r as n}from"./index-ec06099d.js";import{X as r}from"./index-0eb3c0bb.js";var t=r()?n.useLayoutEffect:n.useEffect,u=function(r,u){var e=n.useRef(!0);t((function(){return r(e.current)}),u),t((function(){return e.current=!1,function(){e.current=!0}}),[])},e=function(n,r){u((function(r){if(!r)return n()}),r)};export{u as a,e as u};

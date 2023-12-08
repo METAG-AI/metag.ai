@@ -1,1 +1,0 @@
-import{b as l}from"./index-ec06099d.js";import{c as r}from"./index-f246fd73.js";const s=s=>{const{prefixCls:o,className:i,icon:e,disabled:n,fillByCurrentColor:c,onClick:a,...t}=s;return l("span",{className:r(o,{[`${o}--disabled`]:n,[`${o}--fill-current-color`]:c,[`${i}`]:i}),onClick:l=>{n||null==a||a(l)},...t,children:l(e,{})})};s.defaultProps={prefixCls:"c-icon"};export{s as I};
